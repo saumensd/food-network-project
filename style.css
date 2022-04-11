@@ -1,0 +1,66 @@
+
+body {
+    font-family: 'Merriweather', serif;
+}
+.half-width{
+    width: 50%;
+}
+.half-width img{
+    width: 70%;
+}
+.header-display{
+    display: flex;
+}
+.button{
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: red;
+    color: white;
+}
+
+h1{
+   font-size: 40px;
+}
+p{
+    font-size: 20px;
+}
+
+.my-receipies{
+   text-align: center;
+}
+.indian-food{
+    width: 100%;
+    border: 10px;
+    padding-top: 50px;
+    padding-left: 50px;
+    margin-right: 100px;
+    margin-top: 30px;
+    margin-left: 40px;
+    box-shadow: 10px 10px 10px 10px gray;
+    border-radius: 10px;
+   
+}
+.indian-food p{
+    width: 78%;
+  
+}
+.indian-food img{
+    width: 80%;
+    border-radius: 10px;
+}
+
+footer{
+    background-color: black;
+    color: white;
+}
+#network-food{
+    text-align: center;padding-top: 50px;
+}
+
+footer p {
+    text-align: center;
+}
+.orange-color{
+    color: orange;
+}
